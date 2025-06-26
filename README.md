@@ -108,7 +108,6 @@ We participated in the official [Kaggle Disaster Tweets competition](https://www
 
 If you're working on something exciting in machine learning, NLP, or real-time classification — I’d love to chat!
 
-📧 [Email me](mailto:arma.rahamath@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/armashaik/)  
 💻 [More Projects](https://github.com/ArmaShaik)
 
